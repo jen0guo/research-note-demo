@@ -1,4 +1,4 @@
-# Research Note Organizer (Demo)
+# Research Note Demo
 
 This is a small Next.js + TypeScript project created as a code sample.
 
@@ -21,4 +21,3 @@ Open http://localhost:3000
 ## Notes
 
 The "analysis" call is mocked to simulate an async AI request. The focus is code clarity and UX behavior rather than model quality.
-# research-note-demo
